@@ -14,11 +14,6 @@ import data from "./data.json";
 
 
 
-
-
-
-
-  //TASK #3 | LEVEL #1
   type Review = {
     user: string
     comment: string
